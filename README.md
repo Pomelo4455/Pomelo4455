@@ -1,3 +1,4 @@
+
 ### <div align="center">¡Hola! Soy Santi, full-stack developer 👨‍💻 🚀</div>  
   
 
@@ -5,6 +6,7 @@
 
 
 ## My Skill Set  
+
 
 ### Frontend  
 <div align="center">  
