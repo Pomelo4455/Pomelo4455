@@ -1,4 +1,4 @@
-### <div align="center">Soy Santi, full-stack developer 👨‍💻 🚀</div>  
+### <div align="center">¡Hola! Soy Santi, full-stack developer 👨‍💻 🚀</div>  
   
 
 <br/>  
