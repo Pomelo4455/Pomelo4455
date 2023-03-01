@@ -50,5 +50,5 @@
 </td></tr></table>
 <br />
 
-📲 WA: +54 9 11 6236 7474
-📨 santi_mille@hotmail.com
+<div align="center">📲 WA: +54 9 11 6236 7474
+📨 santi_mille@hotmail.com</div>
